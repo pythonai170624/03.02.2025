@@ -13,3 +13,9 @@ print('handle 600')
 chain200.handle(600)
 print('handle 580')
 chain200.handle(580)
+
+# add Bill 20
+# add coin 5
+# attach them
+# 980, 400, 575
+# what if the 100 has been removed? handle 500
